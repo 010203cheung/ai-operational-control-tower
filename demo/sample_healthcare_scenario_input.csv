@@ -1,0 +1,6 @@
+scenario_id,department,planned_start_hour,staff_id,equipment_id,workflow_complexity,num_cases,department_congestion,queue_intensity,external_disruption,equipment_usage_level,days_since_maintenance,staff_experience,current_resource_utilization
+SC001,Emergency,8,S012,EQ045,15,30,0.85,0.75,1,190000,140,3,90
+SC002,Outpatient,9,S018,EQ021,8,18,0.60,0.50,0,120000,60,5,65
+SC003,Radiology,10,S007,EQ088,6,10,0.40,0.35,0,200000,180,2,70
+SC004,Surgery,11,S025,EQ102,18,32,0.90,0.80,1,220000,200,6,95
+SC005,General Ward,8,S033,EQ066,5,12,0.55,0.45,0,140000,90,4,60

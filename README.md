@@ -57,6 +57,12 @@ The system is designed as a coordination layer that integrates multiple predicti
 
 > **Key Design Principle:** Modular, extensible, and domain-transferable architecture.
 
+### 🏗️ Architecture Evolution
+
+The system was initially designed using a logistics use case and later adapted to healthcare operations. Only labels and interpretation change — the core system architecture remains unchanged.
+
+This demonstrates how the same modular AI architecture can be applied across different operational domains with minimal structural changes.
+
 ---
 
 ## 🔄 Cross-Domain Mapping
